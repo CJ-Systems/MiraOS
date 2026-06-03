@@ -19,9 +19,12 @@ The active work centers on a documentation template system, kept in two layers:
 - **Active set** (`docs/active-templates/`) — the smaller, MiraOS-specific set
   adapted for actual use.
 
-**Adapted and in use:**
+**Ready / active now:**
 
 - Code Review Record
+
+**Drafted / under review:**
+
 - Research Note
 - Routing Guide
 - Spike Report
@@ -47,8 +50,8 @@ programming, new to AI-assisted development, or studying a change worth reviewin
 Active, near-term:
 
 - Decide which parts of `docs/` are ready to commit publicly.
-- Finish adapting the remaining active templates listed above.
-- Create a public project map.
+- Review and settle the drafted active templates listed above.
+- Refine and maintain `project-map.md` as the public orientation layer.
 - Rewrite selected private architecture notes into public docs.
 
 ## Not Ready Yet
