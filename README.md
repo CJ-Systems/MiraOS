@@ -32,7 +32,15 @@ Following along means watching the operating thesis and design language take sha
 
 ## What's here
 
-For now, this repository contains the project README and license. More public artifacts will land here as they are ready to share.
+For now, this repository contains:
+
+- `README.md` - project thesis and framing.
+- `STATUS.md` - current project snapshot.
+- `project-map.md` - orientation map for the public repository.
+- `docs/active-templates/` - the small working template set MiraOS currently uses.
+- `docs/templates/` - the larger generated template catalog kept as source/reference material.
+
+More public architecture artifacts will land here as they are ready to share.
 
 ## A note from Mira
 

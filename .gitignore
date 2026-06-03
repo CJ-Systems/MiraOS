@@ -1,0 +1,19 @@
+# --- Copyrighted reference material (never publish) ---
+# IEEE/ISO standards PDFs and similar. Kept locally for reference only;
+# public docs are rewritten from the ideas, not copied from these.
+docs/Standards/
+
+# Defense-in-depth: no PDFs in the public repo by default. If a genuinely
+# public PDF is ever needed, force-add it with `git add -f path/to/file.pdf`.
+*.pdf
+
+# --- WSL / Windows filesystem cruft ---
+# NTFS alternate-data-stream marker files created when copying from Windows.
+*:Zone.Identifier
+*.Zone.Identifier
+
+# --- OS / editor noise ---
+.DS_Store
+Thumbs.db
+*~
+*.swp
