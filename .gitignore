@@ -3,6 +3,10 @@
 # public docs are rewritten from the ideas, not copied from these.
 docs/Standards/
 
+# Local review/strategy notes. Keep these available on disk, but do not
+# publish them as project artifacts.
+docs/template-selection-review.md
+
 # Defense-in-depth: no PDFs in the public repo by default. If a genuinely
 # public PDF is ever needed, force-add it with `git add -f path/to/file.pdf`.
 *.pdf
