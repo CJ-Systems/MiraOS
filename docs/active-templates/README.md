@@ -12,6 +12,7 @@ The generated catalog in `docs/templates/` remains the source/reference catalog.
 
 ### Drafted / Under Review
 
+- `Quick_Capture.md` — low-friction inbox template for important thoughts or sources before the correct long-term route is clear.
 - `Research_Note.md` — captures source-grounded learning before it becomes a decision, requirement, or design.
 - `Routing_Guide.md` — decides which document type to create when new MiraOS project knowledge appears.
 - `Spike_Report.md` — records bounded technical experiments and their evidence.

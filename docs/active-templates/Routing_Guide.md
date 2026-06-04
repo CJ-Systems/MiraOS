@@ -8,6 +8,7 @@ Ask: what kind of thing is this?
 
 | If it is... | Use... |
 |---|---|
+| Important, but not ready to classify | Quick Capture |
 | A decision we made that future-us may question | Architecture Decision Record |
 | Intended behavior or a stable "must do" statement | Requirements Document |
 | How a subsystem/module works | Software Design Description |
@@ -25,7 +26,7 @@ Ask: what kind of thing is this?
 
 When the right route is unclear:
 
-1. Capture the thought quickly.
+1. Capture the thought quickly using `docs/active-templates/Quick_Capture.md`.
 2. Preserve source, context, date, and why it mattered.
 3. Leave it in a low-friction holding place.
 4. Classify it later using this guide.
@@ -34,6 +35,24 @@ When the right route is unclear:
 Do not make the user manually file everything perfectly at capture time. MiraOS needs both classification and associative re-finding.
 
 ## Routes
+
+### Quick Capture
+
+Use when:
+
+- A thought, source, observation, or question seems worth preserving.
+- The correct destination is not obvious yet.
+- Stopping to choose a formal artifact would interrupt flow.
+- The content may later become an ADR, requirement, research note, topic map, spike, status report, or glossary entry.
+
+Do not use for:
+
+- Finished decisions; write an ADR.
+- Source-grounded learning that is already coherent; write a Research Note or Standard Note.
+- Stable project state; write a Status Report.
+- Random noise that does not need to be recovered later.
+
+Active template: `docs/active-templates/Quick_Capture.md`
 
 ### Architecture Decision Record
 
